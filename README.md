@@ -30,3 +30,16 @@
  <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git," />
+    <img src="https://skillicons.dev/icons?i=,python,javascript,c,c++,c#" /><br>
+</div>
+
+<br/>
+<hr/>
+
+
