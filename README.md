@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Anything here*
+💬 Ask me about **Anything here**
 
 ⚡ Fun fact **Join me for fun**
 
