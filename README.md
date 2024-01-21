@@ -41,5 +41,4 @@
 
 <br/>
 <hr/>
-
-
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app?user=talhaciftci&theme=dark&hide_border=YANLI%C5%9E)](https://git.io/streak-stats"/>
